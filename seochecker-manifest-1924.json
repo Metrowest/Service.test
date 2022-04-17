@@ -1,0 +1,321 @@
+{
+  "short_name": "Metrowest",
+  "name": "Metrowest.Service",
+  "lang": "en",
+  "description": "Esta aplicación le proveerá algunas herramientas para predicar.",
+  "start_url": "https://metrowest.github.io/Service/",
+  "background_color": "#5a92b96e",
+  "theme_color": "#04416c",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/Service/images/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/android-chrome-maskable-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Service/images/android-chrome-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Service/images/android-chrome-maskable-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Service/images/android-chrome-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Service/images/1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Service/images/1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Service/images/favicon-16x16-seochecker-manifest-1524.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/favicon-32x32-seochecker-manifest-1524.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/favicon-96x96-seochecker-manifest-1924.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/Service/images/maskable_icon_x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/Service/images/ms-icon-70x70.png",
+      "type": "image/png",
+      "sizes": "70x70"
+    },
+    {
+      "src": "/Service/images/msapplication-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/Service/images/mstile-150x150.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Service/images/ms-icon-310x310.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "/Service/images/icon-foreground.png",
+      "type": "image/png",
+      "sizes": "864x864"
+    },
+    {
+      "src": "/Service/images/splash.png",
+      "type": "image/png",
+      "sizes": "2732x2732"
+    },
+    {
+      "src": "/Service/images/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/Service/images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/Service/images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/Service/images/Square44x44Logo.scale-400.png",
+      "type": "image/png",
+      "sizes": "176x176"
+    },
+    {
+      "src": "/Service/images/Square310x310Logo.scale-200.png",
+      "type": "image/png",
+      "sizes": "620x620"
+    },
+    {
+      "src": "/Service/images/Wide310x150Logo.scale-100.png",
+      "type": "image/png",
+      "sizes": "310x150"
+    },
+    {
+      "src": "/Service/images/Wide310x150Logo.scale-150.png",
+      "type": "image/png",
+      "sizes": "465x225"
+    },
+    {
+      "src": "/Service/images/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/Service/images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/Service/images/apple-icon.png",
+      "type": "image/png",
+      "sizes": "194x194"
+    },
+    {
+      "src": "/Service/images/favicon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/Service/images/apple-icon-57x57.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "/Service/images/apple-icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/Service/images/apple-icon-114x114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "/Service/images/apple-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/Service/images/apple-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/Service/images/BadgeLogo.scale-125.png",
+      "type": "image/png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "/Service/images/BadgeLogo.scale-150.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "/Service/images/BadgeLogo.scale-200.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/Service/images/apple-touch-icon-60x60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "/Service/images/apple-touch-icon-76x76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/Service/images/apple-touch-icon-120x120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "/Service/images/apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/Service/images/apple-touch-icon-167x167.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "/Service/images/StoreLogo.scale-400.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/Service/images/s1.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s2.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s3.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s4.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s5.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s6.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s7.png",
+      "sizes": "800x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/Service/images/s8.png",
+      "sizes": "1024x768",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "education"
+  ],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,27 @@
+* .main {
+    overflow: hidden;
+    height: 650px
+}
+
+.video-box {
+    width: 100%;
+    max-width: 320px;
+    height: auto
+}
+
+.video video {
+    height: 650px
+}
+
+.video iframe {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+@media only screen and (max-width: 480px) {
+    video {
+      width: 100%;
+    }
+  }

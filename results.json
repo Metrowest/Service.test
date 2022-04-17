@@ -1,0 +1,268 @@
+{
+  "results": [
+    {
+      "filePath": "images/36x36.png",
+      "success": true
+    },
+    {
+      "filePath": "images/48x48.png",
+      "success": true
+    },
+    {
+      "filePath": "images/72x72.png",
+      "success": true
+    },
+    {
+      "filePath": "images/96x96.png",
+      "success": true
+    },
+    {
+      "filePath": "images/144x144.png",
+      "success": true
+    },
+    {
+      "filePath": "images/192x192.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/192x192.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/192x192.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/1024x1024.png",
+      "success": true
+    },
+    {
+      "filePath": "images/1024x1024.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/192x192.png",
+      "success": true
+    },
+    {
+      "filePath": "images/16x16.png",
+      "success": true
+    },
+    {
+      "filePath": "images/32x32.png",
+      "success": true
+    },
+    {
+      "filePath": "images/96x96.png",
+      "success": true
+    },
+    {
+      "filePath": "/Service/images/favicon.ico",
+      "success": false,
+      "error": {
+        "methodName": "constructor"
+      }
+    },
+    {
+      "filePath": "images/48x48.png",
+      "success": true
+    },
+    {
+      "filePath": "images/70x70.png",
+      "success": true
+    },
+    {
+      "filePath": "images/144x144.png",
+      "success": true
+    },
+    {
+      "filePath": "images/150x150.png",
+      "success": true
+    },
+    {
+      "filePath": "images/310x310.png",
+      "success": true
+    },
+    {
+      "filePath": "images/864x864.png",
+      "success": true
+    },
+    {
+      "filePath": "images/2732x2732.png",
+      "success": true
+    },
+    {
+      "filePath": "images/1024x1024.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/176x176.png",
+      "success": true
+    },
+    {
+      "filePath": "images/620x620.png",
+      "success": true
+    },
+    {
+      "filePath": "images/310x150.png",
+      "success": true
+    },
+    {
+      "filePath": "images/465x225.png",
+      "success": true
+    },
+    {
+      "filePath": "images/180x180.png",
+      "success": true
+    },
+    {
+      "filePath": "images/512x512.png",
+      "success": true
+    },
+    {
+      "filePath": "images/194x194.png",
+      "success": true
+    },
+    {
+      "filePath": "images/96x96.png",
+      "success": true
+    },
+    {
+      "filePath": "images/57x57.png",
+      "success": true
+    },
+    {
+      "filePath": "images/72x72.png",
+      "success": true
+    },
+    {
+      "filePath": "images/114x114.png",
+      "success": true
+    },
+    {
+      "filePath": "images/144x144.png",
+      "success": true
+    },
+    {
+      "filePath": "images/180x180.png",
+      "success": true
+    },
+    {
+      "filePath": "images/30x30.png",
+      "success": true
+    },
+    {
+      "filePath": "images/36x36.png",
+      "success": true
+    },
+    {
+      "filePath": "images/48x48.png",
+      "success": true
+    },
+    {
+      "filePath": "images/60x60.png",
+      "success": true
+    },
+    {
+      "filePath": "images/76x76.png",
+      "success": true
+    },
+    {
+      "filePath": "images/120x120.png",
+      "success": true
+    },
+    {
+      "filePath": "images/152x152.png",
+      "success": true
+    },
+    {
+      "filePath": "images/167x167.png",
+      "success": true
+    },
+    {
+      "filePath": "images/200x200.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s1.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s2.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s3.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s4.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s5.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s6.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s7.png",
+      "success": true
+    },
+    {
+      "filePath": "screenshots/s8.png",
+      "success": true
+    },
+    {
+      "filePath": "next-steps.html",
+      "success": true
+    },
+    {
+      "filePath": "manifest.json",
+      "success": true
+    },
+    {
+      "filePath": "pwabuilder-sw/pwabuilder-sw-register.js",
+      "success": true
+    },
+    {
+      "filePath": "pwabuilder-sw/pwabuilder-sw.js",
+      "success": true
+    }
+  ],
+  "errors": [
+    {
+      "filePath": "/Service/images/favicon.ico",
+      "success": false,
+      "error": {
+        "methodName": "constructor"
+      }
+    }
+  ]
+}

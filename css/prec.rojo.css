@@ -1,0 +1,114 @@
+* .typed {
+    display: flex;
+    text-align: center
+}
+
+.form-check-label {
+    font-size: 20px
+}
+
+.form-check-input {
+    font-size: 24px;
+    margin-left: 10px;
+    background-color: #95fefe;
+    border-radius: 5px
+}
+
+.flechasRoja {
+    background-color: red;
+    font-size: 24px;
+    margin-left: 10px;
+    border-radius: 5px;
+    color: #f5f6fa
+}
+
+.flechasVerde {
+    background-color: #3cff00;
+    font-size: 24px;
+    margin-left: 10px;
+    border-radius: 5px;
+    color: #000
+}
+
+.content2 .inputs {
+    height: 40px;
+    width: auto;
+    max-width: 100%;
+    position: relative;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    position: relative;
+    margin-top: 30px
+}
+
+    .content2 .inputs input {
+        font-size: 20px;
+        padding-left: 20%
+    }
+
+    .content2 .inputs input {
+        width: 100%;
+        height: 40px;
+        border: none;
+        border-bottom: 2px solid #005691;
+        outline: 0;
+        font-size: 20px;
+        transition: .3s;
+        background-color: #95fefe
+    }
+
+        .content2 .inputs input:focus {
+            border-color: #14dcd2
+        }
+
+    .content2 .inputs label {
+        position: absolute;
+        bottom: 10px;
+        left: 0;
+        pointer-events: none;
+        font-size: 24px;
+        transition: .3s;
+        color: #ff0404;
+        padding-left: 5pt
+    }
+
+    .content2 .inputs input:focus ~ label, .content2 .inputs input:valid ~ label {
+        transform: translateY(-28px);
+        color: #0a9c1e
+    }
+
+.formulario__submit {
+    display: block;
+    width: fit-content;
+    font-size: 25px;
+    text-align: center;
+    border: 2px solid #ff5f5f;
+    box-shadow: 0 5px 0 #750000;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .5s ease-in-out;
+    background: red;
+    color: #f5f6fa;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto
+}
+
+    .formulario__submit:hover {
+        box-shadow: 0 2px 0 #0a1311;
+        background: linear-gradient(-135deg,#ff7272,#660101)
+    }
+
+#respuesta {
+    width: 100%;
+    height: 50px;
+    margin: 5px;
+    padding: 5px
+}
+
+    #respuesta.fail {
+        color: red
+    }
+
+    #respuesta.send {
+        color: green
+    }
